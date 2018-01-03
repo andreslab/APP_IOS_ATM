@@ -24,6 +24,8 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         
         
         
+        
+        
         let item1 = infractionModel(imageURL: "http://elmanana.com.mx/imgs/noticias/original/bc558b42d29e450_40e86fdff32ee845cfe64ac15c359bba", title: "Zona prohibida", description: "Auto estacionado enuna zona prohibida", date: "12-11-16", city: "Guayaquil", type: "ac")
         let item2 = infractionModel(imageURL: "http://laley.pe/upload/img/periodico/img_6995.jpg", title: "Zona prohibida", description: "Auto estacionado enuna zona prohibida", date: "12-11-16", city: "Guayaquil", type: "ac")
         let item3 = infractionModel(imageURL: "http://www.eluniversal.com.co/sites/default/files/infractor.jpg", title: "Zona prohibida", description: "Auto estacionado enuna zona prohibida", date: "12-11-16", city: "Guayaquil", type: "ac")

@@ -34,7 +34,6 @@ class detailsVC: UIViewController {
     
     @IBAction func btnActionBack(_ sender: Any) {
         dismiss(animated: true, completion: nil)
-        performSegue(withIdentifier: "toMainFromDetail", sender: self)
     }
     
 
